@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 1700.79 1700.79"
+   version="1.1"
+   sodipodi:docname="cases_tempraklok.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview42"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.48918443"
+     inkscape:cx="851.41713"
+     inkscape:cy="1832.6422"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1,.cls-2,.cls-4{fill:none;stroke:#ed2224;}.cls-1,.cls-4{stroke-linecap:round;}.cls-1{stroke-miterlimit:11.34;stroke-width:0.28px;}.cls-2,.cls-3{stroke-miterlimit:10;}.cls-3{font-size:24px;fill:#010101;stroke:#010101;font-family:LucidaSans-Demi, Lucida Sans;font-weight:300;}.cls-4{stroke-miterlimit:11.34;stroke-width:0.28px;}</style>
+  </defs>
+  <path
+     id="front_outsideCutPath"
+     data-name="front outsideCutPath"
+     class="cls-1"
+     d="M1219,.43l-35.4-.1,0,11.3-42.5-.12,0-11.3L1098.58.1l0,11.3-42.5-.12,0-11.3-42.5-.11,0,11.3-42.5-.11,0-11.3-35.4-.1-.13,49.6,11.3,0-.12,42.5-11.3,0-.11,42.5,11.3,0-.12,42.5-11.3,0-.11,42.5,11.3,0-.12,42.5-11.3,0-.11,42.5,11.3,0-.12,42.5-11.3,0-.11,42.5,11.3,0-.12,42.5-11.3,0-.11,42.5,11.3,0-.12,42.5-11.3,0-.13,49.6,35.4.09,0-11.3,42.5.12,0,11.3,42.5.11,0-11.3,42.5.12,0,11.3,42.5.11,0-11.3,42.5.12,0,11.3,35.4.09.13-49.6-11.3,0,.12-42.5,11.3,0,.11-42.5-11.3,0,.12-42.5,11.3,0,.11-42.5-11.3,0,.12-42.5,11.3,0,.11-42.5-11.3,0,.12-42.5,11.3,0,.11-42.5-11.3,0,.12-42.5,11.3,0,.11-42.5-11.3,0,.12-42.5,11.3,0Z" />
+  <circle
+     class="cls-2"
+     cx="1066.41"
+     cy="283.76"
+     r="12.76"
+     id="circle7" />
+  <text
+     class="cls-3"
+     transform="matrix(0, 1, -1, 0, 1057.13, 366.98)"
+     id="text9">3</text>
+  <text
+     class="cls-3"
+     transform="matrix(0, 1, -1, 0, 982.31, 276.06)"
+     id="text11">6</text>
+  <text
+     class="cls-3"
+     transform="matrix(0, 1, -1, 0, 1135.53, 265.79)"
+     id="text13">12</text>
+  <text
+     class="cls-3"
+     transform="matrix(0, 1, -1, 0, 1060.64, 176.62)"
+     id="text15">9</text>
+  <path
+     id="left_outsideCutPath"
+     data-name="left outsideCutPath"
+     class="cls-1"
+     d="M1218.49,587.07h-35.4v-11.3h-42.5v11.3h-42.5v-11.3h-42.5v11.3h-42.5v-11.3h-42.5v11.3h-35.4v52.4h11.3V682h-11.3v42.5h11.3V767h-11.3v42.5h11.3V852h-11.3v52.4h35.4v11.3h42.5v-11.3h42.5v11.3h42.5v-11.3h42.5v11.3h42.5v-11.3h35.4V852h-11.3v-42.5h11.3V767h-11.3v-42.5h11.3V682h-11.3v-42.5h11.3v-52.4Z" />
+  <path
+     id="top_outsideCutPath"
+     data-name="top outsideCutPath"
+     class="cls-1"
+     d="M1263.89,935.67h-52.4v-11.3h-42.6v11.3h-42.5v-11.3h-42.5v11.3h-42.5v-11.3h-42.5v11.3h-52.4V974h-11.3v42.5h11.3V1059h-11.3v42.5h11.3V1144h-11.3v42.5h11.3V1229h-11.3v42.5h11.3V1314h-11.3v42.5h11.3V1399h-11.3v42.5h11.3v38.3h52.4v11.3h42.5v-11.3h42.5v11.3h42.5v-11.3h42.5v11.3h42.5v-11.3h52.5v-38.3h11.3V1399h-11.3v-42.5h11.3V1314h-11.3v-42.5h11.3V1229h-11.3v-42.5h11.3V1144h-11.3v-42.5h11.3V1059h-11.3v-42.5h11.3V974h-11.3Z" />
+  <path
+     id="back_outsideCutPath"
+     data-name="back outsideCutPath"
+     class="cls-1"
+     d="M1510.49.27h-35.4v11.3h-42.5V.27h-42.5v11.3h-42.5V.27h-42.5v11.3h-42.5V.27h-35.4v49.6h11.3v42.5h-11.3v42.5h11.3v42.5h-11.3v42.5h11.3v42.5h-11.3v42.5h11.3v42.5h-11.3v42.5h11.3v42.5h-11.3v42.5h11.3v42.5h-11.3V567h35.4v-11.3h42.5V567h42.5v-11.3h42.5V567h42.5v-11.3h42.5V567h35.4v-49.6h-11.3v-42.5h11.3v-42.5h-11.3v-42.5h11.3v-42.5h-11.3v-42.5h11.3v-42.5h-11.3v-42.5h11.3v-42.5h-11.3v-42.5h11.3V92.37h-11.3V49.87h11.3V.27Z" />
+  <path
+     id="right_outsideCutPath"
+     data-name="right outsideCutPath"
+     class="cls-1"
+     d="M1510.49,587.07h-35.4v-11.3h-42.5v11.3h-42.5v-11.3h-42.5v11.3h-42.5v-11.3h-42.5v11.3h-35.4v52.4h11.3V682h-11.3v42.5h11.3V767h-11.3v42.5h11.3V852h-11.3v52.4h35.4v11.3h42.5v-11.3h42.5v11.3h42.5v-11.3h42.5v11.3h42.5v-11.3h35.4V852h-11.3v-42.5h11.3V767h-11.3v-42.5h11.3V682h-11.3v-42.5h11.3v-52.4Z" />
+  <path
+     id="bottom_outsideCutPath"
+     data-name="bottom outsideCutPath"
+     class="cls-1"
+     d="M1612.59,1020.67h-52.4v-11.3h-42.5v11.3h-42.5v-11.3h-42.5v11.3h-42.5v-11.3h-42.5v11.3h-52.4V1059H1284v42.5h11.3V1144H1284v42.5h11.3V1229H1284v42.5h11.3V1314H1284v42.5h11.3V1399H1284v42.5h11.3V1484H1284v42.5h11.3v38.3h52.4v11.3h42.5v-11.3h42.5v11.3h42.5v-11.3h42.5v11.3h42.4v-11.3h52.4v-38.3h11.4V1484h-11.3v-42.5h11.3V1399h-11.3v-42.5h11.3V1314h-11.3v-42.5h11.3V1229h-11.3v-42.5h11.3V1144h-11.3v-42.5h11.3V1059h-11.3Z" />
+  <rect
+     class="cls-2"
+     x="1076.84"
+     y="1163.58"
+     width="56.69"
+     height="113.39"
+     id="rect22" />
+  <rect
+     class="cls-2"
+     x="1362.39"
+     y="696.17"
+     width="12.8"
+     height="99.21"
+     id="rect24" />
+  <rect
+     class="cls-2"
+     x="1060.29"
+     y="696.17"
+     width="12.8"
+     height="99.21"
+     id="rect26" />
+  <path
+     id="right_outsideCutPath-2"
+     data-name="right outsideCutPath"
+     class="cls-4"
+     d="M1526.84,8.6v56H1515.5v32.6h11.34v32.6H1515.5v32.6h11.34V195H1515.5v32.6h11.34v32.6H1515.5v32.6h11.34v56h24.8V337.41h32.6v11.34h32.6V337.41h32.6v11.34h24.8v-56h11.34v-32.6h-11.34v-32.6h11.34V195h-11.34V162.38h11.34v-32.6h-11.34V97.18h11.34V64.58h-11.34V8.6Z" />
+  <path
+     id="left_outsideCutPath-2"
+     data-name="left outsideCutPath"
+     class="cls-4"
+     d="M1674.24,695.75v-56h11.34v-32.6h-11.34v-32.6h11.34V542h-11.34V509.38h11.34v-32.6h-11.34v-32.6h11.34v-32.6h-11.34v-56h-24.8v11.33h-32.6V355.6h-32.6v11.33h-32.6V355.6h-24.8v56H1515.5v32.6h11.34v32.6H1515.5v32.6h11.34V542H1515.5v32.6h11.34v32.6H1515.5v32.6h11.34v56Z" />
+  <path
+     id="bottom_outsideCutPath-2"
+     data-name="bottom outsideCutPath"
+     class="cls-4"
+     d="M1674.24,722.28h-24.8V710.94h-32.6v11.34h-32.6V710.94h-32.6v11.34h-24.8v16.3H1515.5v32.6h11.34v32.6H1515.5v32.6h11.34V869H1515.5v32.6h11.34v32.6H1515.5v32.6h11.34v16.3h24.8v11.34h32.6V983.07h32.6v11.34h32.6V983.07h24.8v-16.3h11.34v-32.6h-11.34v-32.6h11.34V869h-11.34V836.38h11.34v-32.6h-11.34v-32.6h11.34v-32.6h-11.34Z" />
+  <path
+     id="front_outsideCutPath-2"
+     data-name="front outsideCutPath"
+     class="cls-1"
+     d="M579.57,294.09h56v-11.3h32.6v11.3h32.6v-11.3h32.6v11.3h32.5v-11.3h32.6v11.3h32.6v-11.3h32.6v11.3h56v-27.6h-11.3v-32.6h11.3v-32.6h-11.3v-32.6h11.3v-32.6h-11.3v-32.6h11.3V70.89h-11.3V38.29h11.3V10.69h-56V22h-32.6V10.69h-32.6V22h-32.6V10.69h-32.6V22h-32.6V10.69h-32.6V22h-32.6V10.69h-56v283.4Z" />
+  <circle
+     class="cls-2"
+     cx="680.27"
+     cy="153.09"
+     r="7.09"
+     id="circle34" />
+  <circle
+     class="cls-2"
+     cx="751.27"
+     cy="153.09"
+     r="7.09"
+     id="circle36" />
+  <circle
+     class="cls-2"
+     cx="818.97"
+     cy="153.09"
+     r="7.09"
+     id="circle38" />
+  <path
+     id="back_outsideCutPath-2"
+     data-name="back outsideCutPath"
+     class="cls-1"
+     d="M574.47,585.09h56v-11.3h32.6v11.3h32.6v-11.3h32.6v11.3h32.6v-11.3h32.6v11.3h32.6v-11.3h32.6v11.3h56v-27.6h-11.3v-32.6h11.3v-32.6h-11.3v-32.6h11.3v-32.6h-11.3v-32.6h11.3v-32.6h-11.3v-32.6h11.3v-27.6h-56V313h-32.6v-11.3h-32.6V313h-32.6v-11.3h-32.6V313h-32.6v-11.3h-32.6V313h-32.6v-11.3h-56Z" />
+</svg>
